@@ -4,7 +4,7 @@ Simple module to work with Google Analytics 4 API.
 
 Features:
 - [x] Run real time report
-- [ ] Run Google Analytics report
+- [x] Run Google Analytics report
 
 ## Installation
 
